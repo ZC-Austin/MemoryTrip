@@ -1,0 +1,155 @@
+<svg viewBox="0 0 380 1980" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">사진 갤러리 화면</title>
+<desc id="d">그리드 / 단일 뷰 / 다중 선택 모드</desc>
+<defs>
+<style><![CDATA[
+text{font-family:system-ui,-apple-system,sans-serif}
+.c-teal{fill:#9FE1CB}.c-amber{fill:#FAC775}.c-coral{fill:#F5C4B3}.c-pink{fill:#F4C0D1}.c-gray{fill:#D3D1C7}.c-blue{fill:#B5D4F4}.c-green{fill:#C0DD97}.c-purple{fill:#CECBF6}
+.lbl{font-size:12px;font-weight:500;fill:#6b6b6b}
+.h{font-size:14px;font-weight:500;fill:#1f1f1f}
+.h2{font-size:16px;font-weight:500;fill:#1f1f1f}
+.b{font-size:12px;fill:#1f1f1f}
+.bs{font-size:11px;fill:#6b6b6b}
+.bxs{font-size:10px;fill:#9b9b9b}
+.cta{font-size:13px;font-weight:500;fill:#1f1f1f}
+.section{font-size:11px;font-weight:500;fill:#6b6b6b}
+.gh{font-size:12px;font-weight:500;fill:#1f1f1f}
+.tag{font-size:10px;font-weight:500}
+]]></style>
+</defs>
+<text x="14" y="20" class="lbl">화면 1 — 그리드 뷰 (날짜순 + 일자별 그룹)</text>
+<rect x="10" y="32" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="32" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="46" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="48" class="bxs">9:41</text>
+<text x="346" y="48" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="78" font-size="16" fill="#1f1f1f">‹</text>
+<text x="190" y="78" class="h" text-anchor="middle">사진 42장</text>
+<text x="334" y="78" class="cta" text-anchor="end">날짜순 ▾</text>
+<text x="354" y="78" class="cta" text-anchor="end">⋯</text>
+<line x1="10" y1="92" x2="370" y2="92" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="22" y="102" width="160" height="22" rx="11" fill="#f5f5f5"/>
+<text x="34" y="118" class="gh">5월 14일 (수) · 12장</text>
+<g transform="translate(22, 134)">
+<rect x="0" y="0" width="108" height="108" rx="6" class="c-teal"/>
+<text x="54" y="60" font-size="20" text-anchor="middle" fill="#04342C">📷</text>
+<circle cx="98" cy="10" r="3" fill="#04342C"/>
+<rect x="114" y="0" width="108" height="108" rx="6" class="c-coral"/>
+<text x="168" y="60" font-size="20" text-anchor="middle" fill="#712B13">📷</text>
+<rect x="228" y="0" width="108" height="108" rx="6" class="c-amber"/>
+<text x="282" y="60" font-size="20" text-anchor="middle" fill="#854F0B">📷</text>
+<circle cx="326" cy="10" r="3" fill="#412402"/>
+</g>
+<g transform="translate(22, 248)">
+<rect x="0" y="0" width="108" height="108" rx="6" class="c-pink"/>
+<text x="54" y="60" font-size="20" text-anchor="middle" fill="#72243E">📷</text>
+<rect x="114" y="0" width="108" height="108" rx="6" class="c-blue"/>
+<text x="168" y="60" font-size="20" text-anchor="middle" fill="#0C447C">📷</text>
+<circle cx="212" cy="10" r="3" fill="#042C53"/>
+<rect x="228" y="0" width="108" height="108" rx="6" class="c-green"/>
+<text x="282" y="60" font-size="20" text-anchor="middle" fill="#27500A">📷</text>
+</g>
+<rect x="22" y="370" width="160" height="22" rx="11" fill="#f5f5f5"/>
+<text x="34" y="386" class="gh">5월 13일 (화) · 18장</text>
+<g transform="translate(22, 402)">
+<rect x="0" y="0" width="108" height="108" rx="6" class="c-purple"/>
+<text x="54" y="60" font-size="20" text-anchor="middle" fill="#3C3489">📷</text>
+<rect x="114" y="0" width="108" height="108" rx="6" class="c-teal"/>
+<text x="168" y="60" font-size="20" text-anchor="middle" fill="#04342C">📷</text>
+<circle cx="212" cy="10" r="3" fill="#085041"/>
+<rect x="228" y="0" width="108" height="108" rx="6" class="c-coral"/>
+<text x="282" y="60" font-size="20" text-anchor="middle" fill="#712B13">📷</text>
+</g>
+<text x="190" y="540" class="bxs" text-anchor="middle">↓ 더 보기 (12장)</text>
+<text x="190" y="568" class="bxs" text-anchor="middle">● = 메모 있음 · 길게 누르면 다중 선택</text>
+
+<text x="14" y="668" class="lbl">화면 2 — 단일 뷰 (사진 + 정보 패널)</text>
+<rect x="10" y="680" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="680" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="694" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="696" class="bxs">9:41</text>
+<text x="346" y="696" class="bxs" text-anchor="end">●●●</text>
+<rect x="10" y="702" width="360" height="380" class="c-teal"/>
+<text x="190" y="884" font-size="32" text-anchor="middle" fill="#04342C">📷</text>
+<text x="190" y="914" font-size="14" text-anchor="middle" fill="#085041">[ 사진 풀스크린 ]</text>
+<rect x="10" y="702" width="360" height="48" fill="#000000" opacity="0.5"/>
+<text x="22" y="734" font-size="18" fill="white">‹</text>
+<text x="190" y="732" font-size="13" text-anchor="middle" fill="white">8 / 42</text>
+<text x="354" y="734" font-size="14" text-anchor="end" fill="white">⋯</text>
+<text x="30" y="892" font-size="20" fill="white" opacity="0.7">‹</text>
+<text x="350" y="892" font-size="20" text-anchor="end" fill="white" opacity="0.7">›</text>
+<rect x="10" y="1090" width="360" height="190" fill="#f5f5f5"/>
+<text x="22" y="1112" class="section">📝 메모</text>
+<text x="22" y="1132" class="b">성산일출봉 정상에서 일출.</text>
+<text x="22" y="1148" class="b">바람 진짜 셌음.</text>
+<line x1="22" y1="1166" x2="358" y2="1166" stroke="#e5e5e5" stroke-width="0.5"/>
+<g transform="translate(22, 1180)">
+<text x="0" y="14" class="bs">⏰</text><text x="20" y="14" class="bs">2026.05.14 14:23</text>
+<text x="190" y="14" class="bs">📦</text><text x="210" y="14" class="bs">EXIF</text>
+<text x="0" y="38" class="bs">📍</text>
+<text x="20" y="38" class="b">성산일출봉 게스트하우스</text>
+<text x="346" y="38" class="bs" text-anchor="end" fill="#0F6E56">변경 ›</text>
+<text x="0" y="62" class="bs">🏷</text>
+<rect x="20" y="50" width="48" height="20" rx="10" class="c-teal"/>
+<text x="44" y="64" class="tag" text-anchor="middle" fill="#04342C">바다뷰</text>
+<rect x="74" y="50" width="44" height="20" rx="10" class="c-pink"/>
+<text x="96" y="64" class="tag" text-anchor="middle" fill="#72243E">힐링</text>
+<text x="124" y="64" font-size="11" fill="#9b9b9b">+ 태그 추가</text>
+</g>
+
+<text x="14" y="1316" class="lbl">화면 3 — 다중 선택 모드 (3장 선택됨)</text>
+<rect x="10" y="1328" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="1328" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="1342" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="1344" class="bxs">9:41</text>
+<text x="346" y="1344" class="bxs" text-anchor="end">●●●</text>
+<rect x="10" y="1352" width="360" height="44" class="c-amber"/>
+<text x="22" y="1378" font-size="13" font-weight="500" fill="#412402">취소</text>
+<text x="190" y="1378" font-size="14" font-weight="500" text-anchor="middle" fill="#412402">3장 선택됨</text>
+<text x="358" y="1378" font-size="13" font-weight="500" text-anchor="end" fill="#412402">전체 선택</text>
+<rect x="22" y="1406" width="160" height="22" rx="11" fill="#f5f5f5"/>
+<text x="34" y="1422" class="gh">5월 14일 (수) · 12장</text>
+<g transform="translate(22, 1438)">
+<rect x="0" y="0" width="108" height="108" rx="6" class="c-teal"/>
+<text x="54" y="60" font-size="20" text-anchor="middle" fill="#04342C">📷</text>
+<circle cx="98" cy="10" r="12" fill="#04342C"/>
+<text x="98" y="14" font-size="12" font-weight="500" text-anchor="middle" fill="white">✓</text>
+<rect x="-3" y="-3" width="114" height="114" rx="7" fill="none" stroke="#04342C" stroke-width="3"/>
+<rect x="114" y="0" width="108" height="108" rx="6" class="c-coral" opacity="0.5"/>
+<text x="168" y="60" font-size="20" text-anchor="middle" fill="#712B13" opacity="0.5">📷</text>
+<circle cx="212" cy="10" r="12" fill="white" stroke="#c5c5c5" stroke-width="1"/>
+<rect x="228" y="0" width="108" height="108" rx="6" class="c-amber"/>
+<text x="282" y="60" font-size="20" text-anchor="middle" fill="#854F0B">📷</text>
+<circle cx="326" cy="10" r="12" fill="#412402"/>
+<text x="326" y="14" font-size="12" font-weight="500" text-anchor="middle" fill="white">✓</text>
+<rect x="225" y="-3" width="114" height="114" rx="7" fill="none" stroke="#412402" stroke-width="3"/>
+</g>
+<g transform="translate(22, 1552)">
+<rect x="0" y="0" width="108" height="108" rx="6" class="c-pink" opacity="0.5"/>
+<text x="54" y="60" font-size="20" text-anchor="middle" fill="#72243E" opacity="0.5">📷</text>
+<circle cx="98" cy="10" r="12" fill="white" stroke="#c5c5c5" stroke-width="1"/>
+<rect x="114" y="0" width="108" height="108" rx="6" class="c-blue"/>
+<text x="168" y="60" font-size="20" text-anchor="middle" fill="#0C447C">📷</text>
+<circle cx="212" cy="10" r="12" fill="#042C53"/>
+<text x="212" y="14" font-size="12" font-weight="500" text-anchor="middle" fill="white">✓</text>
+<rect x="111" y="-3" width="114" height="114" rx="7" fill="none" stroke="#042C53" stroke-width="3"/>
+<rect x="228" y="0" width="108" height="108" rx="6" class="c-green" opacity="0.5"/>
+<text x="282" y="60" font-size="20" text-anchor="middle" fill="#27500A" opacity="0.5">📷</text>
+<circle cx="326" cy="10" r="12" fill="white" stroke="#c5c5c5" stroke-width="1"/>
+</g>
+<rect x="10" y="1820" width="360" height="108" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<g transform="translate(22, 1840)">
+<rect x="0" y="0" width="78" height="68" rx="8" fill="#f5f5f5"/>
+<text x="39" y="28" font-size="20" text-anchor="middle">🗑</text>
+<text x="39" y="56" font-size="10" text-anchor="middle" fill="#A32D2D">삭제</text>
+<rect x="86" y="0" width="78" height="68" rx="8" fill="#f5f5f5"/>
+<text x="125" y="28" font-size="20" text-anchor="middle">📍</text>
+<text x="125" y="56" font-size="10" text-anchor="middle" fill="#1f1f1f">장소 연결</text>
+<rect x="172" y="0" width="78" height="68" rx="8" fill="#f5f5f5"/>
+<text x="211" y="28" font-size="20" text-anchor="middle">📝</text>
+<text x="211" y="56" font-size="10" text-anchor="middle" fill="#1f1f1f">메모 일괄</text>
+<rect x="258" y="0" width="78" height="68" rx="8" fill="#f5f5f5"/>
+<text x="297" y="28" font-size="20" text-anchor="middle">🏷</text>
+<text x="297" y="56" font-size="10" text-anchor="middle" fill="#1f1f1f">태그</text>
+</g>
+</svg>

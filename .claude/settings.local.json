@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Work\\\\Zestcode\\\\MemoryTrip\\\\src\" -Recurse -File | ForEach-Object { $_.FullName.Replace\\(\"C:\\\\Work\\\\Zestcode\\\\MemoryTrip\\\\\", \"\"\\) })",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Work\\\\Zestcode\\\\MemoryTrip\\\\src\" -Recurse -File | ForEach-Object { $_.FullName.Replace\\(\"C:\\\\Work\\\\Zestcode\\\\MemoryTrip\\\\\", \"\"\\) } | Sort-Object)",
+      "Bash(dir C:\\\\Work\\\\Zestcode\\\\MemoryTrip /b)",
+      "PowerShell(Get-ChildItem C:\\\\Work\\\\Zestcode\\\\MemoryTrip -Depth 0 | Where-Object { $_.Extension -in '.ts','.tsx','.js' } | Select-Object Name)",
+      "PowerShell(Get-NetTCPConnection *)"
+    ]
+  }
+}

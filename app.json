@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "MemoryTrip",
+    "slug": "memory-trip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1D9E75"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.zestcode.memorytrip",
+      "infoPlist": {
+        "NSCameraUsageDescription": "여행 사진을 찍기 위해 카메라가 필요해요.",
+        "NSPhotoLibraryUsageDescription": "여행 사진을 가져오기 위해 사진 라이브러리 접근이 필요해요.",
+        "NSLocationWhenInUseUsageDescription": "사진과 장소에 현재 위치를 자동으로 태그하기 위해 위치 정보가 필요해요."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1D9E75"
+      },
+      "package": "com.zestcode.memorytrip",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "여행 사진을 가져오기 위해 사진 라이브러리 접근이 필요해요.",
+          "cameraPermission": "여행 사진을 찍기 위해 카메라가 필요해요."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "사진과 장소에 현재 위치를 자동으로 태그하기 위해 위치 정보가 필요해요."
+        }
+      ]
+    ],
+  }
+}

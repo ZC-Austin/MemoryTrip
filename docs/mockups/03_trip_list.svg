@@ -1,0 +1,119 @@
+<svg viewBox="0 0 380 1380" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">여행 목록 화면</title>
+<desc id="d">필터 + 4가지 상태 배지가 있는 카드 리스트</desc>
+<defs>
+<style><![CDATA[
+text{font-family:system-ui,-apple-system,sans-serif}
+.c-teal{fill:#9FE1CB}.c-amber{fill:#FAC775}.c-coral{fill:#F5C4B3}.c-pink{fill:#F4C0D1}.c-gray{fill:#D3D1C7}.c-blue{fill:#B5D4F4}.c-purple{fill:#CECBF6}
+.lbl{font-size:12px;font-weight:500;fill:#6b6b6b}
+.h{font-size:14px;font-weight:500;fill:#1f1f1f}
+.h2{font-size:16px;font-weight:500;fill:#1f1f1f}
+.bs{font-size:11px;fill:#6b6b6b}
+.bxs{font-size:10px;fill:#9b9b9b}
+.title{font-size:13px;font-weight:500;fill:#1f1f1f}
+.badge{font-size:10px;font-weight:500}
+.thumb-lbl{font-size:9px;text-anchor:middle}
+]]></style>
+</defs>
+<text x="14" y="20" class="lbl">여행 목록 — 4가지 상태 카드</text>
+<rect x="10" y="32" width="360" height="1340" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="32" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="46" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="48" class="bxs">9:41</text>
+<text x="346" y="48" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="78" class="h2">여행 목록</text>
+<text x="334" y="78" class="h" text-anchor="middle">⌕</text>
+<text x="354" y="78" class="h" text-anchor="middle">⚙</text>
+<g transform="translate(22, 96)" font-size="11">
+<rect x="0" y="0" width="48" height="28" rx="14" class="c-teal"/>
+<text x="24" y="18" font-weight="500" text-anchor="middle" fill="#04342C">전체</text>
+<rect x="56" y="0" width="60" height="28" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="86" y="18" text-anchor="middle" fill="#1f1f1f">trip</text>
+<rect x="124" y="0" width="72" height="28" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="160" y="18" text-anchor="middle" fill="#1f1f1f">camping</text>
+<rect x="204" y="0" width="58" height="28" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="233" y="18" text-anchor="middle" fill="#1f1f1f">상태 ▾</text>
+<rect x="270" y="0" width="58" height="28" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="299" y="18" text-anchor="middle" fill="#1f1f1f">2026 ▾</text>
+</g>
+<text x="22" y="156" class="bxs">14건 · 최근순 ▾</text>
+<line x1="22" y1="170" x2="358" y2="170" stroke="#e5e5e5" stroke-width="0.5"/>
+
+<!-- Card 1: 진행 중 -->
+<rect x="22" y="184" width="336" height="100" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="194" width="80" height="80" rx="8" class="c-teal"/>
+<text x="72" y="232" font-size="20" text-anchor="middle" fill="#04342C">📷</text>
+<text x="124" y="208" class="title">제주도 봄여행</text>
+<rect x="284" y="194" width="68" height="20" rx="10" class="c-amber"/>
+<text x="318" y="208" class="badge" text-anchor="middle" fill="#854F0B">● 진행 중</text>
+<text x="124" y="228" class="bs">2026.05.12 ~ 미정 · trip</text>
+<text x="124" y="252" class="bxs">사진 14장 · ₩240,000 · 4일째</text>
+
+<!-- Card 2: 종료일 미정 -->
+<rect x="22" y="296" width="336" height="100" rx="10" fill="#ffffff" stroke="#EF9F27" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="32" y="306" width="80" height="80" rx="8" class="c-amber"/>
+<text x="72" y="344" font-size="20" text-anchor="middle" fill="#854F0B">📷</text>
+<text x="124" y="320" class="title">강원도 가족캠핑</text>
+<rect x="270" y="306" width="82" height="20" rx="10" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="311" y="320" class="badge" text-anchor="middle" fill="#854F0B">📅 종료일?</text>
+<text x="124" y="340" class="bs">2026.04.12 ~ 미정 · camping</text>
+<text x="124" y="364" class="bxs">사진 28장 · ₩340,000 · 30일 전 시작</text>
+
+<!-- Card 3: 예정 -->
+<rect x="22" y="408" width="336" height="100" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="418" width="80" height="80" rx="8" class="c-purple"/>
+<text x="72" y="456" font-size="20" text-anchor="middle" fill="#3C3489">📅</text>
+<text x="124" y="432" class="title">교토 여름여행</text>
+<rect x="288" y="418" width="64" height="20" rx="10" class="c-blue"/>
+<text x="320" y="432" class="badge" text-anchor="middle" fill="#0C447C">예정 D-30</text>
+<text x="124" y="452" class="bs">2026.06.13 ~ 06.18 · trip</text>
+<text x="124" y="476" class="bxs">교토 / 동행 2명 · 예약 1건</text>
+
+<!-- Card 4: 완료 -->
+<rect x="22" y="520" width="336" height="100" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="530" width="80" height="80" rx="8" class="c-pink"/>
+<text x="72" y="568" font-size="20" text-anchor="middle" fill="#72243E">📷</text>
+<text x="124" y="544" class="title">부산 출장 + α</text>
+<text x="124" y="564" class="bs">2026.03.05 ~ 03.08 · trip</text>
+<text x="124" y="588" class="bxs">⭐ 3.8 · 사진 17장 · ₩520,000</text>
+
+<!-- Card 5: 완료 -->
+<rect x="22" y="632" width="336" height="100" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="642" width="80" height="80" rx="8" class="c-coral"/>
+<text x="72" y="680" font-size="20" text-anchor="middle" fill="#712B13">📷</text>
+<text x="124" y="656" class="title">속초 캠핑</text>
+<text x="124" y="676" class="bs">2026.02.18 ~ 02.20 · camping</text>
+<text x="124" y="700" class="bxs">⭐ 4.5 · 사진 22장 · ₩185,000</text>
+
+<!-- Card 6: 완료 (장기) -->
+<rect x="22" y="744" width="336" height="100" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="754" width="80" height="80" rx="8" class="c-blue"/>
+<text x="72" y="792" font-size="20" text-anchor="middle" fill="#0C447C">📷</text>
+<text x="124" y="768" class="title">일본 도쿄 (5박)</text>
+<text x="124" y="788" class="bs">2026.01.20 ~ 01.25 · trip</text>
+<text x="124" y="812" class="bxs">⭐ 5.0 · 사진 142장 · ₩1,840,000</text>
+
+<!-- Card 7: 종료일 미정 (옛날) -->
+<rect x="22" y="856" width="336" height="100" rx="10" fill="#ffffff" stroke="#EF9F27" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="32" y="866" width="80" height="80" rx="8" class="c-gray"/>
+<text x="72" y="904" font-size="20" text-anchor="middle" fill="#5F5E5A">📷</text>
+<text x="124" y="880" class="title">남해 당일치기?</text>
+<rect x="270" y="866" width="82" height="20" rx="10" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="311" y="880" class="badge" text-anchor="middle" fill="#854F0B">📅 종료일?</text>
+<text x="124" y="900" class="bs">2025.11.08 ~ 미정 · trip</text>
+<text x="124" y="924" class="bxs">6개월 전 · 정리 안 됨</text>
+
+<text x="190" y="990" class="bxs" text-anchor="middle">↓ 7건 더 (완료된 여행)</text>
+<rect x="22" y="1014" width="336" height="80" rx="10" fill="#f5f5f5"/>
+<text x="34" y="1036" class="bs" font-weight="500">📅 종료일 미정 (2건)</text>
+<text x="34" y="1056" class="bxs">탭하면 종료일 입력 + 회고 입력 가능</text>
+<text x="34" y="1074" class="bxs">상단 [상태 ▾] 필터로 골라 보기</text>
+
+<line x1="22" y1="1280" x2="358" y2="1280" stroke="#e5e5e5" stroke-width="0.5"/>
+<g font-size="10" text-anchor="middle">
+<text x="64" y="1304" fill="#6b6b6b">홈</text>
+<text x="148" y="1304" font-weight="500" fill="#1f1f1f">● 목록</text>
+<text x="232" y="1304" fill="#6b6b6b">지도</text>
+<text x="316" y="1304" fill="#6b6b6b">설정</text>
+</g>
+</svg>

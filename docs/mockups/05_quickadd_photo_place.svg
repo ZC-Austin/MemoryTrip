@@ -1,0 +1,95 @@
+<svg viewBox="0 0 380 1340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">빠른 추가 — 사진 미리보기 + 장소(숙소) 폼</title>
+<desc id="d">사진 미리보기 풀스크린, 장소 추가 폼</desc>
+<defs>
+<style><![CDATA[
+text{font-family:system-ui,-apple-system,sans-serif}
+.c-teal{fill:#9FE1CB}.c-amber{fill:#FAC775}.c-coral{fill:#F5C4B3}.c-pink{fill:#F4C0D1}.c-gray{fill:#D3D1C7}
+.lbl{font-size:12px;font-weight:500;fill:#6b6b6b}
+.h{font-size:14px;font-weight:500;fill:#1f1f1f}
+.b{font-size:12px;fill:#1f1f1f}
+.bs{font-size:11px;fill:#6b6b6b}
+.bxs{font-size:10px;fill:#9b9b9b}
+.cta{font-size:13px;font-weight:500;fill:#1f1f1f}
+.ph{font-size:12px;fill:#9b9b9b}
+.section{font-size:11px;font-weight:500;fill:#6b6b6b}
+]]></style>
+</defs>
+<text x="14" y="20" class="lbl">화면 1 — 사진 추가 (3장 선택 후 미리보기)</text>
+<rect x="10" y="32" width="360" height="620" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="32" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="46" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="48" class="bxs">9:41</text>
+<text x="346" y="48" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="78" class="cta">취소</text>
+<text x="190" y="78" class="h" text-anchor="middle">3장 추가</text>
+<text x="358" y="78" class="cta" text-anchor="end" fill="#0F6E56">저장</text>
+<line x1="10" y1="92" x2="370" y2="92" stroke="#e5e5e5" stroke-width="0.5"/>
+<text x="22" y="116" class="section">선택한 사진</text>
+<g transform="translate(22, 124)">
+<rect x="0" y="0" width="106" height="106" rx="6" class="c-teal"/>
+<text x="53" y="58" font-size="22" text-anchor="middle" fill="#085041">📷</text>
+<text x="53" y="78" font-size="9" text-anchor="middle" fill="#04342C">14:23</text>
+<rect x="112" y="0" width="106" height="106" rx="6" class="c-coral"/>
+<text x="165" y="58" font-size="22" text-anchor="middle" fill="#712B13">📷</text>
+<text x="165" y="78" font-size="9" text-anchor="middle" fill="#4A1B0C">14:35</text>
+<rect x="224" y="0" width="106" height="106" rx="6" class="c-amber"/>
+<text x="277" y="58" font-size="22" text-anchor="middle" fill="#854F0B">📷</text>
+<text x="277" y="78" font-size="9" text-anchor="middle" fill="#412402">14:48</text>
+</g>
+<text x="22" y="262" class="section">모두에 적용</text>
+<text x="22" y="284" class="bs">메모</text>
+<rect x="22" y="292" width="336" height="68" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="34" y="316" class="ph">예: 성산일출봉 정상에서</text>
+<text x="22" y="384" class="bs">장소 연결</text>
+<rect x="22" y="392" width="336" height="44" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="34" y="418" class="b">📍 성산일출봉 게스트하우스</text>
+<text x="346" y="418" font-size="10" text-anchor="end" fill="#6b6b6b">▾</text>
+<text x="22" y="466" class="section">자동 감지된 정보</text>
+<rect x="22" y="474" width="336" height="80" rx="8" fill="#f5f5f5"/>
+<text x="34" y="496" class="bs">⏰ 촬영 시간</text>
+<text x="346" y="496" class="b" text-anchor="end">2026-05-14 14:23 ~ 14:48</text>
+<text x="34" y="518" class="bs">📍 위치 (EXIF)</text>
+<text x="346" y="518" class="b" text-anchor="end">제주특별자치도 서귀포시</text>
+<text x="34" y="540" class="bs">📦 백업</text>
+<text x="346" y="540" class="b" text-anchor="end" fill="#185FA5">iCloud Drive 자동</text>
+<text x="190" y="600" class="bxs" text-anchor="middle">개별 편집은 저장 후 갤러리에서</text>
+
+<text x="14" y="688" class="lbl">화면 2 — 장소 추가 (숙소 폼)</text>
+<rect x="10" y="700" width="360" height="620" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="700" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="714" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="716" class="bxs">9:41</text>
+<text x="346" y="716" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="746" class="cta">취소</text>
+<text x="190" y="746" class="h" text-anchor="middle">숙소 추가</text>
+<text x="358" y="746" class="cta" text-anchor="end" fill="#0F6E56">저장</text>
+<line x1="10" y1="760" x2="370" y2="760" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="22" y="776" width="336" height="32" rx="6" class="c-teal"/>
+<text x="34" y="797" font-size="11" font-weight="500" fill="#04342C">▼ 기본 정보</text>
+<text x="22" y="826" class="bs">이름 *</text>
+<rect x="22" y="834" width="336" height="38" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="34" y="858" class="b">성산일출봉 게스트하우스</text>
+<text x="22" y="892" class="bs">방문일</text>
+<rect x="22" y="900" width="160" height="38" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="34" y="924" class="b">2026-05-14</text>
+<text x="194" y="892" class="bs">위치</text>
+<rect x="194" y="900" width="164" height="38" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="206" y="924" class="bs">📍 자동 감지</text>
+<text x="346" y="924" font-size="10" text-anchor="end" fill="#0F6E56">●</text>
+<rect x="22" y="954" width="336" height="32" rx="6" class="c-amber"/>
+<text x="34" y="975" font-size="11" font-weight="500" fill="#412402">▼ 비용 (가격 입력 시 자동으로 비용에 반영)</text>
+<text x="22" y="1004" class="bs">숙박비</text>
+<rect x="22" y="1012" width="336" height="38" rx="8" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<text x="34" y="1036" class="b">₩ 85,000</text>
+<text x="346" y="1036" class="bxs" text-anchor="end">선택 입력</text>
+<rect x="22" y="1066" width="336" height="32" rx="6" fill="#f5f5f5"/>
+<text x="34" y="1087" class="section">▶ 평가 (별점, 청결/위치/친절/가성비, 장단점, 재방문)</text>
+<rect x="22" y="1104" width="336" height="32" rx="6" fill="#f5f5f5"/>
+<text x="34" y="1125" class="section">▶ 메모</text>
+<rect x="22" y="1156" width="336" height="44" rx="8" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5" stroke-dasharray="3 3"/>
+<text x="190" y="1183" class="bs" text-anchor="middle">＋ 사진 추가 (이 숙소에 연결)</text>
+<text x="190" y="1242" class="bxs" text-anchor="middle">필수: 이름만 · 나머지는 모두 선택</text>
+<text x="190" y="1262" class="bxs" text-anchor="middle">가격을 비우면 비용 자동 생성 안 함</text>
+<text x="190" y="1290" font-size="11" text-anchor="middle" fill="#6b6b6b">trip 모드 — [숙소][식당] 시트에서 진입</text>
+</svg>

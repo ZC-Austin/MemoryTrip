@@ -1,0 +1,147 @@
+<svg viewBox="0 0 380 1980" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">Memory Trip 홈 화면 — 3가지 상태</title>
+<desc id="d">평상시(출발 CTA) / 진행 중·사진 0장 / 진행 중·사진 있음</desc>
+<defs>
+<style><![CDATA[
+text{font-family:system-ui,-apple-system,sans-serif}
+.c-teal{fill:#9FE1CB}.c-amber{fill:#FAC775}.c-coral{fill:#F5C4B3}.c-pink{fill:#F4C0D1}.c-gray{fill:#D3D1C7}.c-blue{fill:#B5D4F4}.c-green{fill:#C0DD97}.c-purple{fill:#CECBF6}
+.lbl{font-size:12px;font-weight:500;fill:#6b6b6b}
+.h{font-size:14px;font-weight:500;fill:#1f1f1f}
+.b{font-size:12px;fill:#1f1f1f}
+.bs{font-size:11px;fill:#6b6b6b}
+.bxs{font-size:10px;fill:#9b9b9b}
+.cta{font-size:13px;font-weight:500;fill:#1f1f1f}
+.pn{font-size:11px;font-weight:500}
+.stat{font-size:18px;font-weight:500;fill:#1f1f1f}
+.qbi{font-size:18px;text-anchor:middle}
+.qbl{font-size:9px;text-anchor:middle;fill:#1f1f1f}
+]]></style>
+</defs>
+<text x="14" y="20" class="lbl">시나리오 1 — 평상시 (메인 CTA "출발")</text>
+<rect x="10" y="32" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="32" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="46" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="48" class="bxs">9:41</text>
+<text x="346" y="48" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="76" class="h">Memory Trip</text>
+<text x="334" y="76" class="h" text-anchor="middle">⌕</text>
+<text x="354" y="76" class="h" text-anchor="middle">≡</text>
+<rect x="22" y="96" width="336" height="120" rx="14" class="c-teal"/>
+<text x="190" y="142" font-size="32" text-anchor="middle" fill="#04342C">✈</text>
+<text x="190" y="172" font-size="20" font-weight="500" text-anchor="middle" fill="#04342C">출발</text>
+<text x="190" y="192" font-size="11" text-anchor="middle" fill="#085041">새 여행 시작하기</text>
+<rect x="22" y="232" width="336" height="44" rx="8" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<text x="40" y="260" font-size="14">🖼</text>
+<text x="64" y="260" class="cta">사진으로 여행 만들기</text>
+<text x="22" y="304" class="h">최근 여행</text>
+<text x="358" y="304" class="bs" text-anchor="end">전체 보기 ›</text>
+<rect x="22" y="316" width="336" height="80" rx="8" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="326" width="60" height="60" rx="6" class="c-coral"/>
+<text x="62" y="362" font-size="9" text-anchor="middle" fill="#712B13">사진</text>
+<text x="104" y="344" class="h">강원도 가족캠핑</text>
+<text x="104" y="362" class="bs">2026.04.12 ~ 04.14 · camping</text>
+<text x="104" y="378" class="bxs">⭐ 4.5 · 2박 · 사진 28장</text>
+<rect x="22" y="404" width="336" height="80" rx="8" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="32" y="414" width="60" height="60" rx="6" class="c-pink"/>
+<text x="62" y="450" font-size="9" text-anchor="middle" fill="#72243E">사진</text>
+<text x="104" y="432" class="h">부산 출장 + α</text>
+<text x="104" y="450" class="bs">2026.03.05 ~ 03.08 · trip</text>
+<text x="104" y="466" class="bxs">⭐ 3.8 · 3박 · 사진 17장</text>
+<rect x="22" y="500" width="336" height="60" rx="8" fill="#f5f5f5"/>
+<text x="76" y="534" class="stat" text-anchor="middle">12</text>
+<text x="76" y="549" class="bxs" text-anchor="middle">여행</text>
+<text x="190" y="534" class="stat" text-anchor="middle">87</text>
+<text x="190" y="549" class="bxs" text-anchor="middle">장소</text>
+<text x="304" y="534" class="stat" text-anchor="middle">1,234</text>
+<text x="304" y="549" class="bxs" text-anchor="middle">사진</text>
+<line x1="22" y1="588" x2="358" y2="588" stroke="#e5e5e5" stroke-width="0.5"/>
+<g font-size="10" text-anchor="middle">
+<text x="64" y="612" font-weight="500" fill="#1f1f1f">● 홈</text>
+<text x="148" y="612" fill="#6b6b6b">목록</text>
+<text x="232" y="612" fill="#6b6b6b">지도</text>
+<text x="316" y="612" fill="#6b6b6b">설정</text>
+</g>
+
+<text x="14" y="668" class="lbl">시나리오 2 — 진행 중 · 사진 없음 (5버튼)</text>
+<rect x="10" y="680" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="680" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="694" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="696" class="bxs">9:41</text>
+<text x="346" y="696" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="724" class="h">Memory Trip</text>
+<text x="334" y="724" class="h" text-anchor="middle">⌕</text>
+<text x="354" y="724" class="h" text-anchor="middle">≡</text>
+<rect x="22" y="740" width="336" height="296" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="22" y="740" width="336" height="22" rx="10" class="c-amber"/>
+<rect x="22" y="752" width="336" height="10" class="c-amber"/>
+<text x="34" y="756" class="pn" fill="#854F0B">●  진행 중 · 1일째</text>
+<rect x="34" y="774" width="312" height="120" rx="8" class="c-gray"/>
+<text x="190" y="828" font-size="22" text-anchor="middle" fill="#888780">📷</text>
+<text x="190" y="854" font-size="12" font-weight="500" text-anchor="middle" fill="#5F5E5A">첫 기록을 남겨보세요</text>
+<text x="190" y="870" font-size="10" text-anchor="middle" fill="#888780">아래 버튼으로 빠르게 추가</text>
+<text x="34" y="914" class="h">제주도 봄여행</text>
+<text x="34" y="930" class="bs">5월 14일 ~ 미정 · trip</text>
+<g transform="translate(34, 944)">
+<rect x="0" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="30" y="28" class="qbi">📸</text><text x="30" y="56" class="qbl">카메라</text>
+<rect x="69" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="99" y="28" class="qbi">🖼</text><text x="99" y="56" class="qbl">갤러리</text>
+<rect x="138" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="168" y="28" class="qbi">📍</text><text x="168" y="56" class="qbl">장소</text>
+<rect x="207" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="237" y="28" class="qbi">💰</text><text x="237" y="56" class="qbl">비용</text>
+<rect x="276" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="306" y="28" class="qbi">📝</text><text x="306" y="56" class="qbl">일기</text>
+</g>
+<rect x="22" y="1052" width="336" height="40" rx="8" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<text x="190" y="1077" class="cta" text-anchor="middle">✈ 출발 (또 다른 여행)</text>
+<text x="22" y="1116" class="h">최근 여행</text>
+<rect x="22" y="1126" width="336" height="100" rx="8" fill="#f5f5f5"/>
+<text x="190" y="1180" font-size="20" text-anchor="middle" fill="#9b9b9b">∅</text>
+<text x="190" y="1202" class="bs" text-anchor="middle">아직 완료된 여행이 없어요</text>
+<line x1="22" y1="1236" x2="358" y2="1236" stroke="#e5e5e5" stroke-width="0.5"/>
+<g font-size="10" text-anchor="middle">
+<text x="64" y="1260" font-weight="500" fill="#1f1f1f">● 홈</text>
+<text x="148" y="1260" fill="#6b6b6b">목록</text>
+<text x="232" y="1260" fill="#6b6b6b">지도</text>
+<text x="316" y="1260" fill="#6b6b6b">설정</text>
+</g>
+
+<text x="14" y="1316" class="lbl">시나리오 3 — 진행 중 · 사진 있음 (5버튼)</text>
+<rect x="10" y="1328" width="360" height="600" rx="14" fill="#ffffff" stroke="#c5c5c5" stroke-width="0.5"/>
+<rect x="10" y="1328" width="360" height="22" rx="14" fill="#f5f5f5"/>
+<rect x="10" y="1342" width="360" height="8" fill="#f5f5f5"/>
+<text x="22" y="1344" class="bxs">9:41</text>
+<text x="346" y="1344" class="bxs" text-anchor="end">●●●</text>
+<text x="22" y="1372" class="h">Memory Trip</text>
+<text x="334" y="1372" class="h" text-anchor="middle">⌕</text>
+<text x="354" y="1372" class="h" text-anchor="middle">≡</text>
+<rect x="22" y="1388" width="336" height="296" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+<rect x="22" y="1388" width="336" height="22" rx="10" class="c-amber"/>
+<rect x="22" y="1400" width="336" height="10" class="c-amber"/>
+<text x="34" y="1404" class="pn" fill="#854F0B">●  진행 중 · 3일째</text>
+<rect x="34" y="1422" width="312" height="120" rx="8" class="c-teal"/>
+<text x="190" y="1474" font-size="14" text-anchor="middle" fill="#085041">[ 가장 최근 사진 ]</text>
+<text x="190" y="1496" font-size="10" text-anchor="middle" fill="#085041">탭하면 갤러리로</text>
+<rect x="290" y="1524" width="14" height="14" rx="2" class="c-teal"/>
+<rect x="306" y="1524" width="14" height="14" rx="2" class="c-coral"/>
+<rect x="322" y="1524" width="14" height="14" rx="2" class="c-gray"/>
+<text x="34" y="1562" class="h">제주도 봄여행</text>
+<text x="34" y="1578" class="bs">5월 12일 ~ 미정 · trip · 사진 14장</text>
+<g transform="translate(34, 1592)">
+<rect x="0" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="30" y="28" class="qbi">📸</text><text x="30" y="56" class="qbl">카메라</text>
+<rect x="69" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="99" y="28" class="qbi">🖼</text><text x="99" y="56" class="qbl">갤러리</text>
+<rect x="138" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="168" y="28" class="qbi">📍</text><text x="168" y="56" class="qbl">장소</text>
+<rect x="207" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="237" y="28" class="qbi">💰</text><text x="237" y="56" class="qbl">비용</text>
+<rect x="276" y="0" width="60" height="68" rx="8" fill="#f5f5f5"/><text x="306" y="28" class="qbi">📝</text><text x="306" y="56" class="qbl">일기</text>
+</g>
+<text x="22" y="1712" class="h">최근 여행</text>
+<rect x="22" y="1722" width="160" height="80" rx="8" class="c-coral"/>
+<text x="34" y="1782" font-size="11" font-weight="500" fill="#712B13">강원도 가족캠핑</text>
+<text x="34" y="1796" font-size="9" fill="#993C1D">2026.04 · 2박</text>
+<rect x="190" y="1722" width="168" height="80" rx="8" class="c-pink"/>
+<text x="202" y="1782" font-size="11" font-weight="500" fill="#72243E">부산 출장 + α</text>
+<text x="202" y="1796" font-size="9" fill="#993556">2026.03 · 3박</text>
+<line x1="22" y1="1884" x2="358" y2="1884" stroke="#e5e5e5" stroke-width="0.5"/>
+<g font-size="10" text-anchor="middle">
+<text x="64" y="1908" font-weight="500" fill="#1f1f1f">● 홈</text>
+<text x="148" y="1908" fill="#6b6b6b">목록</text>
+<text x="232" y="1908" fill="#6b6b6b">지도</text>
+<text x="316" y="1908" fill="#6b6b6b">설정</text>
+</g>
+</svg>
