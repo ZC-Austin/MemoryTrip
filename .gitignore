@@ -10,3 +10,4 @@ web-build/
 *.orig.*
 .DS_Store
 *.env
+.claude/settings.local.json
